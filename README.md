@@ -28,6 +28,6 @@ num4=23
 print(num3+num4)
 '''
 
-To jest kod programu: 'print('Hello, World!)'
+To jest kod programu: ''print('Hello, World!)''
 
 ![Obrazek](/home/LABPK/pkosmowski/Dokumenty/obrazek.png)
