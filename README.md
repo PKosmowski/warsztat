@@ -21,13 +21,18 @@ Lista nienumeryczna:
 - dwa
 - trzy
 
-'''py
+
+
+'''
 print('Hello, World!')
 num3=51
 num4=23
 print(num3+num4)
 '''
 
+
+
+
 To jest kod programu: ''print('Hello, World!)''
 
-![Obrazek](/home/LABPK/pkosmowski/Dokumenty/obrazek.png)
+![Obrazek](screenshot.jpg)
